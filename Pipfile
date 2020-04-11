@@ -12,6 +12,7 @@ padans = "*"
 pandas = "*"
 install = "*"
 folium = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.8"

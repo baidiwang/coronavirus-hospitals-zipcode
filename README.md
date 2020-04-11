@@ -1,20 +1,16 @@
-# This is my pitch
+# Are hospitals enough for different areas in NYC during pandemic?
 
-### Write your nutgraf here
-
-Make sure your pitch answers the following questions:
-
--   Why this story is relevant ("So what?) and why now?
--   What is the single question your story tries to answer?
--   Why will this story resonate with your audience?
+### As we can see from the dataset of confirmed NYC positive cases in different areas based on zip code provided by NYC Department of Health and Mental Hygiene on Github, areas with zip code in Queens have the most cases in NYC, but are there sufficient hospitals in those areas to support medical services? With the coronavirus is getting worse and worse in NYC, I also collected zip code of NYC hospitals to use both of the datasets to make an interactive map to show hospital locations in different areas that also have different confirmed cases.
 
 What else has been done on this topic (provide links)? How is your angle different or fresh?
 
--   [Related headline (NYT)](https://www.nytimes.com/2020/03/09/upshot/coronavirus-oil-prices-bond-yields-recession.html)
--   [Related headline (NPR)](https://www.nytimes.com/2020/03/09/upshot/coronavirus-oil-prices-bond-yields-recession.html)
--   [Related headline (WNYC)](https://www.nytimes.com/2020/03/09/upshot/coronavirus-oil-prices-bond-yields-recession.html)
+-   [Related headline (Coronavirus in the U.S.: Latest Map and Case Count)](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
+-   [Related headline (Reuters)](https://graphics.reuters.com/CHINA-HEALTH-MAP/0100B59S39E/index.html)
 
 Describe how and where you found the data with links to sources. Put the raw data (csv format) in a folder called `data` in this folder. Make a folder called `notebooks` where you will write your pandas code.
+
+-   The first data I found is from [NYC Department of Health and Mental Hygiene](https://github.com/baidiwang/coronavirus-data/blob/master/tests-by-zcta.csv).
+-   The second data I found is from [a NY Government PDF document](https://ag.ny.gov/sites/default/files/press-releases/archived/NYSHospitalsByCounty.pdf).
 
 Write up at least one or up to three findings from your analysis based on the data you found.
 
@@ -24,7 +20,13 @@ Write up at least one or up to three findings from your analysis based on the da
 
 Who are some potential human sources you could reach out to for more info?
 
+-   I will talk with related officers at NYC government who are responsible for tracking coronavirus.
+-   Also doctors working at different NYC hospitals.
+-   Residents live in different areas based on zip code.
+
 What is the maximum (best) story possible? What's the minimum (fallback) story if your hypothesis doesn't prove out?
+
+-   I think the story will be easier to tell, as I have collected sufficient data, but it may still fail if the result shows there are actually more hospitals in an area with more confirmed cases than another area with less hospitals.
 
 ## How to publish and submit your project
 
