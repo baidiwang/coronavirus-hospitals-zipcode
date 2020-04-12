@@ -1,65 +1,65 @@
-Hospital Name,Address,City/Town,zipcode,County
-Bronx_Lebanon Hospital Center,1650 Grand Concourse,Bronx,10457,Bronx
-Bronx Children's Psychiatric Center,1000 Waters Place,Bronx,10461,Bronx
-Bronx Psychiatric Center,1500 Waters Place,Bronx,10461,Bronx
-Calvary Hospital,1740 Eastchester Road,Bronx,10461,Bronx
-Jacobi Medical Center,Pelham Parkway South and Eastchester Road,Bronx,10461,Bronx
-Lincoln Medical and Mental Health Center,234 East 149th Street,Bronx,10451,Bronx
-Montefiore Medical Center,111 East 210th Street,Bronx,10467,Bronx
-New York Westchester Square Medical Center,2475 St. Raymond Avenue,Bronx,10461,Bronx
-North Central Bronx Hospital,3424 Kossuth Avenue,Bronx,10467,Bronx
-Our Lady of Mercy Medical Center,600 East 233rd Street,Bronx,10466,Bronx
-Brookdale Hospital Medical Center,Linden Boulevard at Brookdale Plaza,Brooklyn,11212,Kings
-Brooklyn Hospital Center,100 Parkside Avenue,Brooklyn,11226,Kings
-Coney Island Hospital,2601 Ocean Parkway,Brooklyn,11235,Kings
-Interfaith Medical Center,555 Prospect Place,Brooklyn,11238,Kings
-Kings County Hospital Center,451 Clarkson Avenue,Brooklyn,11203,Kings
-Kingsboro Psychiatric Center,681 Clarkson Avenue,Brooklyn,11203,Kings
-Kingsbrook Jewish Medical Center,585 Schenectady Avenue,Brooklyn,11203,Kings
-Long Island College Hospital,339 Hicks Street,Brooklyn,11201,Kings
-Lutheran Medical Center,150 55th Street,Brooklyn,11220,Kings
-Maimonides Medical Center,4802 Tenth Avenue,Brooklyn,11219,Kings
-New York Community Hospital,2525 Kings Highway,Brooklyn,11229,Kings
-New York Methodist Hospital,506 Sixth Street,Brooklyn,11215,Kings
-Bellevue Hospital Center,462 First Avenue,Manhattan,10016,New York
-Beth Israel Medical Center,170 East End Avenue,Manhattan,10128,New York
-Cabrini Medical Center,227 East 19th Street,Manhattan,10003,New York
-Coler_Goldwater Specialty Hospital and Nursing Facility,One Main Street,Manhattan,10044,New York
-Cornerstone of Medical Arts Center Hospital,57 West 57th Street,Manhattan,10019,New York
-Gracie Square Hospital,420 East 76th Street,Manhattan,10021,New York
-Harlem Hospital Center,506 Lenox Avenue,Manhattan,10037,New York
-Hospital for Joint Diseases Orthopaedic Institute,301 East 17th Street,Manhattan,10003,New York
-Hospital for Spcial Surgery,535 East 70th Street,Manhattan,10021,New York
-Lenox Hill Hospital,100 East 77th Street,Manhattan,10021,New York
-"Manhattan Eye, Ear and Throat Hospital",210 East 64th Street,Manhattan,10021,New York
-Memorial Sloan_Kettering Cancer Center,1275 York Avenue,Manhattan,10021,New York
-Metropolitan Hospital Center,1901 First Avenue,Manhattan,10029,New York
-Mount Sinai Medical Center,One Gustave L. Levy Place,Manhattan,10029,New York
-New York_Presbyterian Hospital,525 East 68th Street,Manhattan,10021,New York
-New York Eye and Ear Infirmary,310 East 14th Street,Manhattan,10003,New York
-New York State Psychiatric Institute,1051 Riverside Drive,Manhattan,10032,New York
-New York University Downtown Hospital,170 William Street,Manhattan,10038,New York
-New York University Medical Center,550 First Avenue,Manhattan,10016,New York
-North General Hospital,1879 Madison Avenue,Manhattan,10035,New York
-Rockefeller University Hospital,1230 York Avenue,Manhattan,10021,New York
-Saint Vincents Hospital,170 West 12th Street,Manhattan,10011,New York
-St. Clare's Hospital and Health Center,415 West 51st Street,Manhattan,10019,New York
-St. Luke's_Roosevelt Hospital Center,1111 Amsterdam Avenue,Manhattan,10025,New York
-Creedmoor Psychiatric Center,80_45 Winchester Boulevard,Jamaica,11427,Queens
-Elmhurst Hospital Center,75_01 Broadway,Flushing,11373,Queens
-Flushing Hospital Medical Center,45th Avenue at Parsons Boulevard,Flushing,11355,Queens
-Holliswood Hospital,87_37 Palermo Street,Jamaica,11423,Queens
-Jamaica Hospital Medical Center,8900 VanWyck Expressway,Jamaica,11418,Queens
-Long Island Jewish Medical Center,270_05 76th Avenue,New Hyde Park,11040,Queens
-New York Hospital Medical Center of Queens,56_45 Main Street,Flushing,11355,Queens
-New York Hospital Medical Center of Queens,56_45 Main Street,Flushing,11355,Queens
-North Shore University Hospital_Forest Hills,102_01 66th Road,Flushing,11375,Queens
-Parkway Hospital,70_35 113th Street,Flushing,11375,Queens
-Penninsula Hospital Center,51_15 Beach Channel Drive,Far Rockaway,11691,Queens
-Queens Children's Psychiatric Center,74_03 Commonwealth Boulevard,Jamaica,11426,Queens
-Queens Hospital Center,82_68 164th Street,Jamaica,11432,Queens
-Saint Vincents Catholic Medical Centers of New York,88_25 153rd Street,Jamaica,11432,Queens
-St. John's Episcopal Hospital_ South Shore,327 Beach 19th Street,Far Rockaway,11691,Queens
-South Beach Psychiatric Center,777 Seaview Avenue,Staten Island,10305,Richmond
-Staten Island University Hospital_Concord,1050 Targee Street,Staten Island,10304,Richmond
-"St, Vincent's Catholic Medical Center_Staten Island Region",355 Bard Avenue,Staten Island,10310,Richmond
+Hospital Name,Address,City/Town,zipcode,County,Latitude,Longitude
+Bronx_Lebanon Hospital Center,1650 Grand Concourse,Bronx,10457,Bronx,40.843533,-73.911466
+Bronx Children's Psychiatric Center,1000 Waters Place,Bronx,10461,Bronx,40.847524,-73.843921
+Bronx Psychiatric Center,1500 Waters Place,Bronx,10461,Bronx,40.848782,-73.839363
+Calvary Hospital,1740 Eastchester Road,Bronx,10461,Bronx,40.8478,-73.844258
+Jacobi Medical Center,Pelham Parkway South and Eastchester Road,Bronx,10461,Bronx,40.857137,-73.84379200000001
+Lincoln Medical and Mental Health Center,234 East 149th Street,Bronx,10451,Bronx,40.817534,-73.924095
+Montefiore Medical Center,111 East 210th Street,Bronx,10467,Bronx,40.879864000000005,-73.87989499999999
+New York Westchester Square Medical Center,2475 St. Raymond Avenue,Bronx,10461,Bronx,40.840439,-73.848344
+North Central Bronx Hospital,3424 Kossuth Avenue,Bronx,10467,Bronx,40.880373,-73.88153299999999
+Our Lady of Mercy Medical Center,600 East 233rd Street,Bronx,10466,Bronx,40.893977,-73.86097
+Brookdale Hospital Medical Center,Linden Boulevard at Brookdale Plaza,Brooklyn,11212,Kings,40.655322,-73.91220600000001
+Brooklyn Hospital Center,100 Parkside Avenue,Brooklyn,11226,Kings,40.653039,-73.966213
+Coney Island Hospital,2601 Ocean Parkway,Brooklyn,11235,Kings,40.586022,-73.965731
+Interfaith Medical Center,555 Prospect Place,Brooklyn,11238,Kings,40.675596,-73.957957
+Kings County Hospital Center,451 Clarkson Avenue,Brooklyn,11203,Kings,40.65625,-73.944614
+Kingsboro Psychiatric Center,681 Clarkson Avenue,Brooklyn,11203,Kings,40.656499,-73.936501
+Kingsbrook Jewish Medical Center,585 Schenectady Avenue,Brooklyn,11203,Kings,40.659453000000006,-73.93400600000001
+Long Island College Hospital,339 Hicks Street,Brooklyn,11201,Kings,40.691338,-73.997793
+Lutheran Medical Center,150 55th Street,Brooklyn,11220,Kings,40.646615999999995,-74.020579
+Maimonides Medical Center,4802 Tenth Avenue,Brooklyn,11219,Kings,40.639361,-73.99866800000001
+New York Community Hospital,2525 Kings Highway,Brooklyn,11229,Kings,40.613859999999995,-73.948359
+New York Methodist Hospital,506 Sixth Street,Brooklyn,11215,Kings,40.664322,-73.98413199999999
+Bellevue Hospital Center,462 First Avenue,Manhattan,10016,New York,40.739540000000005,-73.976333
+Beth Israel Medical Center,170 East End Avenue,Manhattan,10128,New York,40.776021,-73.944264
+Cabrini Medical Center,227 East 19th Street,Manhattan,10003,New York,40.735898999999996,-73.983551
+Coler_Goldwater Specialty Hospital and Nursing Facility,One Main Street,Manhattan,10044,New York,40.761812,-73.950521
+Cornerstone of Medical Arts Center Hospital,57 West 57th Street,Manhattan,10019,New York,40.764337,-73.976823
+Gracie Square Hospital,420 East 76th Street,Manhattan,10021,New York,40.769771,-73.952908
+Harlem Hospital Center,506 Lenox Avenue,Manhattan,10037,New York,40.814346,-73.94030699999999
+Hospital for Joint Diseases Orthopaedic Institute,301 East 17th Street,Manhattan,10003,New York,40.734411,-73.983549
+Hospital for Spcial Surgery,535 East 70th Street,Manhattan,10021,New York,40.764897,-73.95290200000001
+Lenox Hill Hospital,100 East 77th Street,Manhattan,10021,New York,40.773965000000004,-73.960884
+"Manhattan Eye, Ear and Throat Hospital",210 East 64th Street,Manhattan,10021,New York,40.764081,-73.963144
+Memorial Sloan_Kettering Cancer Center,1275 York Avenue,Manhattan,10021,New York,40.764045,-73.956024
+Metropolitan Hospital Center,1901 First Avenue,Manhattan,10029,New York,40.784771,-73.943905
+Mount Sinai Medical Center,One Gustave L. Levy Place,Manhattan,10029,New York,40.791884,-73.943517
+New York_Presbyterian Hospital,525 East 68th Street,Manhattan,10021,New York,40.764346999999994,-73.95450799999999
+New York Eye and Ear Infirmary,310 East 14th Street,Manhattan,10003,New York,40.731984999999995,-73.984483
+New York State Psychiatric Institute,1051 Riverside Drive,Manhattan,10032,New York,40.843076,-73.94420600000001
+New York University Downtown Hospital,170 William Street,Manhattan,10038,New York,40.710751,-74.005133
+New York University Medical Center,550 First Avenue,Manhattan,10016,New York,40.742303,-73.974301
+North General Hospital,1879 Madison Avenue,Manhattan,10035,New York,40.80368,-73.942101
+Rockefeller University Hospital,1230 York Avenue,Manhattan,10021,New York,40.762908,-73.956395
+Saint Vincents Hospital,170 West 12th Street,Manhattan,10011,New York,40.736757,-73.999416
+St. Clare's Hospital and Health Center,415 West 51st Street,Manhattan,10019,New York,40.764412,-73.988725
+St. Luke's_Roosevelt Hospital Center,1111 Amsterdam Avenue,Manhattan,10025,New York,40.80575,-73.961569
+Creedmoor Psychiatric Center,80_45 Winchester Boulevard,Jamaica,11427,Queens,40.736244,-73.734487
+Elmhurst Hospital Center,75_01 Broadway,Flushing,11373,Queens,40.73509,-73.877562
+Flushing Hospital Medical Center,45th Avenue at Parsons Boulevard,Flushing,11355,Queens,40.755432,-73.815339
+Holliswood Hospital,87_37 Palermo Street,Jamaica,11423,Queens,40.721425,-73.773573
+Jamaica Hospital Medical Center,8900 VanWyck Expressway,Jamaica,11418,Queens,40.698394,-73.815039
+Long Island Jewish Medical Center,270_05 76th Avenue,New Hyde Park,11040,Queens,40.729351,-73.682824
+New York Hospital Medical Center of Queens,56_45 Main Street,Flushing,11355,Queens,40.750316999999995,-73.813903
+New York Hospital Medical Center of Queens,56_45 Main Street,Flushing,11355,Queens,40.750316999999995,-73.813903
+North Shore University Hospital_Forest Hills,102_01 66th Road,Flushing,11375,Queens,40.723040999999995,-73.843688
+Parkway Hospital,70_35 113th Street,Flushing,11375,Queens,40.723040999999995,-73.843688
+Penninsula Hospital Center,51_15 Beach Channel Drive,Far Rockaway,11691,Queens,40.596441,-73.767123
+Queens Children's Psychiatric Center,74_03 Commonwealth Boulevard,Jamaica,11426,Queens,40.726264,-73.71824699999999
+Queens Hospital Center,82_68 164th Street,Jamaica,11432,Queens,40.714531,-73.794435
+Saint Vincents Catholic Medical Centers of New York,88_25 153rd Street,Jamaica,11432,Queens,40.707027000000004,-73.805114
+St. John's Episcopal Hospital_ South Shore,327 Beach 19th Street,Far Rockaway,11691,Queens,40.598028,-73.753132
+South Beach Psychiatric Center,777 Seaview Avenue,Staten Island,10305,Richmond,40.583205,-74.082409
+Staten Island University Hospital_Concord,1050 Targee Street,Staten Island,10304,Richmond,40.602884,-74.091526
+"St, Vincent's Catholic Medical Center_Staten Island Region",355 Bard Avenue,Staten Island,10310,Richmond,40.635546000000005,-74.10647800000001
