@@ -14,9 +14,9 @@ Describe how and where you found the data with links to sources. Put the raw dat
 
 Write up at least one or up to three findings from your analysis based on the data you found.
 
--   Finding 1
--   Finding 2
--   Finding 3
+-   Queens has the least hospitals in NYC while having the most cases confirmed compared with other boroughs.
+-   Manhattan has the opposite situation compared with Queens, as Manhattan has the most hospitals with less cases in NYC.
+-   Bronx and Staten Island has the same issues as Queens. 
 
 Who are some potential human sources you could reach out to for more info?
 
