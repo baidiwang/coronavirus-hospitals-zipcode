@@ -1,6 +1,6 @@
-# Are hospitals enough for different areas in NYC during pandemic?
+# Are hospitals enough for different NCY areas during pandemic?
 
-### As we can see from the dataset of confirmed NYC positive cases in different areas based on zip code provided by NYC Department of Health and Mental Hygiene on Github, areas with zip code in Queens have the most cases in NYC, but are there sufficient hospitals in those areas to support medical services? With the coronavirus is getting worse and worse in NYC, I also collected zip code of NYC hospitals to use both of the datasets to make an interactive map to show hospital locations in different areas that also have different confirmed cases.
+### As we can see from the dataset of confirmed NYC positive cases in NYC on zip code provided by NYC Department of Health and Mental Hygiene on Github, areas in Queens have the most cases in NYC, but are there sufficient hospitals in those areas to support medical services for infected people? With the coronavirus is getting worse and worse in NYC, I also collected zip code of NYC hospitals, so I'm able to use both of the datasets to make an interactive map to show locations of NYC hospitals and confirmed cases in those areas.
 
 What else has been done on this topic (provide links)? How is your angle different or fresh?
 
@@ -10,7 +10,7 @@ What else has been done on this topic (provide links)? How is your angle differe
 Describe how and where you found the data with links to sources. Put the raw data (csv format) in a folder called `data` in this folder. Make a folder called `notebooks` where you will write your pandas code.
 
 -   The first data I found is from [NYC Department of Health and Mental Hygiene](https://github.com/baidiwang/coronavirus-data/blob/master/tests-by-zcta.csv).
--   The second data I found is from [a NY Government PDF document](https://ag.ny.gov/sites/default/files/press-releases/archived/NYSHospitalsByCounty.pdf).
+-   The second data I found is from a[NY Government PDF document](https://ag.ny.gov/sites/default/files/press-releases/archived/NYSHospitalsByCounty.pdf).
 
 Write up at least one or up to three findings from your analysis based on the data you found.
 
