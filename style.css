@@ -30,6 +30,8 @@ body {
 
 .article-header__leadart {
     margin-bottom: 20px;
+    margin: auto;
+    text-align: center;
 }
 
 .article-header__leadart__img {
