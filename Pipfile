@@ -13,6 +13,7 @@ pandas = "*"
 install = "*"
 folium = "*"
 jupyterlab = "*"
+plotly = "==4.6.0"
 
 [requires]
 python_version = "3.8"
