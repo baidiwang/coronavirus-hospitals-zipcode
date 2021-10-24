@@ -1,4 +1,4 @@
-# Are hospitals enough for different NCY areas during pandemic?
+# Are hospitals enough for different NYC areas during pandemic?
 
 ### As we can see from the dataset of confirmed NYC positive cases in NYC on zip code provided by NYC Department of Health and Mental Hygiene on Github, areas in Queens have the most cases in NYC, but are there sufficient hospitals in those areas to support medical services for infected people? With the coronavirus is getting worse and worse in NYC, I also collected zip code of NYC hospitals, so I'm able to use both of the datasets to make an interactive map to show locations of NYC hospitals and confirmed cases in those areas.
 
